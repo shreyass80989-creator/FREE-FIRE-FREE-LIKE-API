@@ -18,7 +18,7 @@ Here’s how to use everything like a pro:
 ### 👤 ANY ACCOUNT INFORMATION
 ```
 
-Format: /ffinfo {region} {uid}
+Format: /ffinfo {1111111} {2732742335}
 Example: /ffinfo bd 12345
 All supported regions: IND, BR, SG, RU, ID, TW, US, VN, TH, ME, PK, CIS, BD
 
@@ -27,7 +27,7 @@ All supported regions: IND, BR, SG, RU, ID, TW, US, VN, TH, ME, PK, CIS, BD
 ### ❤️ GET LIKES FREE
 ```
 
-Format: /like {region} {uid}
+Format: /like {1111111} {2732742335}
 Example: /like bd 123345
 All supported regions: IND, BR, SG, RU, ID, TW, US, VN, TH, ME, PK, CIS, BD
 
@@ -36,7 +36,7 @@ All supported regions: IND, BR, SG, RU, ID, TW, US, VN, TH, ME, PK, CIS, BD
 ### 🚫 CHECK IF ANY ACCOUNT IS BANNED
 ```
 
-Format: /chekban {uid}
+Format: /chekban {2732742335}
 Example: /chekban 1234454
 No region needed for this command.
 
